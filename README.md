@@ -11,4 +11,4 @@
 npm install
 node app
 ```
-http://localhost/ja/language/test
+http://localhost:4000/ja/language/test
