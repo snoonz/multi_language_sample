@@ -1,0 +1,17 @@
+[{
+        "id": "en",
+        "name": "English"
+    },
+    {
+        "id": "ja",
+        "name": "日本語"
+    },
+    {
+        "id": "es",
+        "name": "Español"
+    },
+    {
+        "id": "fr",
+        "name": "Français"
+    }
+]

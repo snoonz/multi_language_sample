@@ -1,0 +1,7 @@
+html
+  body
+    h1 TEST
+    ul
+      for lang in languages
+        li
+          a(href="/"+lang.id+urlPath) #{lang.name}
