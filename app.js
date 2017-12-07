@@ -23,7 +23,7 @@ app.get("/:lang*", function(req, res, next) {
     }
   }
   console.log(req.path);
-  res.redirect("/");
+  next();
 });
 
 
